@@ -1,1 +1,1 @@
-the companion code my book, FakeItEasy Succinctly, which can by downloaded for free from: http://www.syncfusion.com/resources/techportal/details/ebooks/fakeiteasy
+the companion code for my book, FakeItEasy Succinctly, which can by downloaded for free from: http://www.syncfusion.com/resources/techportal/details/ebooks/fakeiteasy
